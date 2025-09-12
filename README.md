@@ -1,24 +1,8 @@
----
-title: Attention Flow Visualizer
-emoji: 🔍
-colorFrom: blue
-colorTo: green
-sdk: gradio
-sdk_version: 4.0.0
-app_file: app.py
-pinned: false
-license: apache-2.0
-tags:
-- attention
-- visualization
-- transformers
-- nlp
-- machine-learning
----
-
 # Attention Flow Visualizer
 
 An interactive tool for visualizing attention patterns in Large Language Models during text generation.
+
+🚀 **Try it live on [Hugging Face Spaces](https://huggingface.co/spaces/asadshahab/token-attention-visualizer)**
 
 ## Features
 
